@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+/* ----- RESET CSS  -----*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: #FFE77E;
+}
+
+ul, li, a{
+    list-style: none;
+    text-decoration: none;
+}
+
+/* ----- NAVBAR ----- */
+
+header nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    background-color: #FFD101;
+}
+
+/* ----- LOGO ----- */
+
+header nav .logo-container{
+    display: flex;
+    gap: 1rem;
+    transition: 0.5s;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+header nav .logo-container:hover{
+    font-size: 2rem;
+    color: #00A6FB;
+    transition: 0.5s;
+}
+
+/* ----- MENU ----- */
+
+header nav .menu-container ul{
+    display: flex;
+    gap: 2rem;
+}
+
+header nav .menu-container ul li a{
+    color: #000000;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 12px;
+}
+
+header nav .menu-container ul li a:hover{
+    color: #00A6FB;
+    border-bottom: 1px solid #00A6FB;
+}
+
+/* 
+
+Amarelo forte: ffd101
+Amarelo fraco: ffe77e
+laranja - f95738 
+
+*/
