@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-
 /* ----- RESET CSS  -----*/
 
 *{
@@ -12,6 +11,7 @@
 body{
     font-family: 'Inter', sans-serif;
     background-color: #FFE77E;
+    
 }
 
 ul, li, a{
@@ -38,6 +38,7 @@ header nav .logo-container{
     transition: 0.5s;
     font-size: 1.2rem;
     font-weight: 600;
+    cursor: grab;
 }
 
 header nav .logo-container:hover{
