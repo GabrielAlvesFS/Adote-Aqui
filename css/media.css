@@ -30,4 +30,11 @@
     header nav .menu-container ul li a{
         font-size: 1.5rem;
     }
+
+    /* ----- MAIN ABOUT ----- */
+
+    main .about-container{
+        width: 90%;
+        padding: 1.5rem;
+    }
 }
