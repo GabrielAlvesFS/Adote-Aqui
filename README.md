@@ -1,5 +1,5 @@
 ># Mini Projeto - Adote Aqui
->Para ver o mini projeto, [clique aqui](https://gabrielalvesfs.github.io/Encoder-Decoder/).
+>Para ver o mini projeto, [clique aqui](https://adote-aqui.vercel.app/).
 
 ![Projeto Preview!](https://i.imgur.com/wS4cPps.png)
 Esse é um projeto que foi desenvolvido como um mini projeto do primeiro módulo durante o curso de Web Dev FullStack da Resilia Educação.
